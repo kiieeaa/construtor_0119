@@ -4,7 +4,7 @@ using namespace std;
 class buku {
     string judul;
     public:
-       string setdet(string jdl)
+       string setget(string jdl)
        {
          // nilai parameter 'judul' untuk memeberi variabel 'judul'
          this->judul = jdl;
