@@ -8,7 +8,9 @@ class buku {
        {
          // nilai parameter 'judul' untuk memeberi variabel 'judul'
          this->judul = jdl;
+         // return variabel judul.
+         return this->judul;
        }
 
        
-}
+};
